@@ -6,10 +6,8 @@ export const CollectionPreviewContainer = styled.div`
     margin-bottom: 30px;
 
     @media screen and (max-width: 800px) {
-        aliign-items: center;
-
+        align-items: center;
     }
-
 `;
 
 export const TitleContainer = styled.h1`
